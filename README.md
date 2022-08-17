@@ -34,6 +34,3 @@ The first conclusion that I can draw from this graph is that there is a huge num
 
 
 LSTAT seems to be a better factor than ZN to distinguish between tracts with higher and lower median values. Although there is a slight intersection of median values greater than 20000 and median values lower than 20000 for LSTAT values between approx. 7.5 and approx. 24 , there is a huge number of tracts with median value more than 20000$ for LSTAT<15 and likewise there is a huge number of tracts with median values less than or equal to 20000$ for LSTAT>15. In the case of the ZN graph, we can see that there is a demarcation when ZN crosses 20. There seems to be more number of tracts with median values larger than 20000$ when this happens. But, the issue is that there is a huge intersection in the number of tracts with both the sets of median values (higher than 20000 and less than or equal to 20000) for 0 < ZN < 10. Hence, LSTAT seems to be a better attribute due to the low intersection value.
-
-
-
