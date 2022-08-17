@@ -1,4 +1,4 @@
-# Boston-Housing-Dataset
+# Boston-Housing-Dataset ( Academic Assignment )
 
 ## Problem
 The Boston Housing data contain information on census tracts in Boston for which several measurements are taken (e.g., crime rate, pupil/teacher ratio). We are interested in how different variables affect the median value of owner-occupied homes in tract (represented by each row)
